@@ -26,4 +26,3 @@ if extra_cheese == "Y":
 
 print(f"Your final bill is: ${bill}.")
 
-#checking git clone... seems it works
